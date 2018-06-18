@@ -18,7 +18,7 @@
   ],
   "Wallpapers": [   
     {
-      "name": "Nature",
+      "name": "SunLight",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature1.jpg",
       "collections": "nature",
@@ -95,7 +95,7 @@
       "downloadable": false
     },    
     {
-      "name": "Abstract5",
+      "name": "Technical",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract5.jpg",
       "collections": "abstract",
@@ -123,14 +123,14 @@
       "downloadable": false
     }, 
     {
-      "name": "Abstract7",
+      "name": "Technical2",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract7.jpg",
       "collections": "abstract",
       "downloadable": false
     },
     {
-      "name": "Abstract8",
+      "name": "BlueSea",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract8.jpg",
       "collections": "abstract",
