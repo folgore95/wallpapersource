@@ -14,7 +14,12 @@
       "name": "Nature",
       "preview_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature1.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature1.jpg"
-    }
+    },
+    {
+      "name": "Places",
+      "preview_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/places/places1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/places/places1.jpg"
+    },
   ],
   "Wallpapers": [   
     {
@@ -30,7 +35,14 @@
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory2.jpg",
       "collections": "featured,amoled",
       "downloadable": false
-    },    
+    }, 
+    {
+      "name": "Australia",
+      "author": "Sam Wermut",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/places/places1.jpg",
+      "collections": "places",
+      "downloadable": false
+    },  
     {
       "name": "VC",
       "author": "Giorgio Cantoni",
