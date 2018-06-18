@@ -34,7 +34,7 @@
       "author": "Giorgio Cantoni",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory2.jpg",
       "collections": "featured,amoled",
-      "downloadable": false
+      "downloadable": true
     }, 
     {
       "name": "Australia",
@@ -48,7 +48,7 @@
       "author": "Giorgio Cantoni",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory1.jpg",
       "collections": "featured,amoled",
-      "downloadable": false
+      "downloadable": true
     },    
     {
       "name": "Abstract",
