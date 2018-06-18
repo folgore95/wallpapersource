@@ -4,6 +4,11 @@
       "name": "Amoled",
       "preview_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory2.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory2.jpg"
+    },
+    {
+      "name": "Abstract",
+      "preview_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract1.jpg"
     }
   ],
   "Wallpapers": [
@@ -15,12 +20,19 @@
       "downloadable": false
     },
     {
-      "name": "Victory+",
+      "name": "VC",
       "author": "Giorgio Cantoni",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory1.jpg",
       "collections": "featured,amoled",
       "downloadable": false
     }
+    {
+      "name": "Abstract",
+      "author": "De Jan",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract1.jpg",
+      "collections": "featured,abstract",
+      "downloadable": false
+    },
     
  
   ]
