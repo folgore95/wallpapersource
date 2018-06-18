@@ -32,17 +32,17 @@
       "downloadable": false
     },
     {
-      "name": "Abstract",
-      "author": "De Jan",
-      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract1.jpg",
-      "collections": "abstract",
-      "downloadable": false
-    },
-    {
       "name": "VC",
       "author": "Giorgio Cantoni",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/victory1.jpg",
       "collections": "featured,amoled",
+      "downloadable": false
+    },
+    {
+      "name": "Abstract",
+      "author": "De Jan",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract1.jpg",
+      "collections": "abstract",
       "downloadable": false
     },
     {
@@ -60,16 +60,16 @@
       "downloadable": false
     },
     {
-      "name": "Abstract3",
-      "author": "De Jan",
-      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract3.jpg",
-      "collections": "abstract",
-      "downloadable": false
-    },
-    {
       "name": "Poppy",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature3.jpeg",
+      "collections": "nature",
+      "downloadable": false
+    },
+    {
+      "name": "Abstract3",
+      "author": "De Jan",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract3.jpg",
       "collections": "abstract",
       "downloadable": false
     },
@@ -78,6 +78,13 @@
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract4.jpg",
       "collections": "abstract",
+      "downloadable": false
+    },
+    {
+      "name": "Leaf",
+      "author": "De Jan",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature4.jpeg",
+      "collections": "nature",
       "downloadable": false
     },
     {
