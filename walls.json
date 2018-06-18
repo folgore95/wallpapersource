@@ -17,7 +17,7 @@
     }
   ],
   "Wallpapers": [
-    // Nature
+    
     {
       "name": "Nature",
       "author": "De Jan",
@@ -25,7 +25,7 @@
       "collections": "nature",
       "downloadable": false
     },
-    // Amoled
+    
     {
       "name": "Victory",
       "author": "Giorgio Cantoni",
@@ -33,7 +33,7 @@
       "collections": "featured,amoled",
       "downloadable": false
     },
-    // Amoled
+    
     {
       "name": "VC",
       "author": "Giorgio Cantoni",
@@ -57,7 +57,7 @@
       "collections": "abstract",
       "downloadable": false
     },
-    // Nature
+    
     {
       "name": "Flowers",
       "author": "De Jan",
@@ -65,7 +65,7 @@
       "collections": "nature",
       "downloadable": false
     },
-    // Nature
+    
     {
       "name": "Poppy",
       "author": "De Jan",
@@ -73,7 +73,7 @@
       "collections": "nature",
       "downloadable": false
     },
-    // Abstract
+    
     {
       "name": "Abstract3",
       "author": "De Jan",
@@ -81,7 +81,7 @@
       "collections": "abstract",
       "downloadable": false
     },
-    // Abstract
+    
     {
       "name": "Abstract4",
       "author": "De Jan",
@@ -89,7 +89,7 @@
       "collections": "abstract",
       "downloadable": false
     },
-    // Nature
+    
     {
       "name": "Leaf",
       "author": "De Jan",
@@ -97,7 +97,7 @@
       "collections": "nature",
       "downloadable": false
     },
-    // Nature
+    
     {
       "name": "Black Leaf",
       "author": "De Jan",
@@ -105,7 +105,7 @@
       "collections": "nature",
       "downloadable": false
     },
-    // Abstract
+    
     {
       "name": "Abstract5",
       "author": "De Jan",
@@ -113,7 +113,7 @@
       "collections": "abstract",
       "downloadable": false
     },
-    // Abstract
+   
     {
       "name": "Abstract6",
       "author": "De Jan",
@@ -121,7 +121,7 @@
       "collections": "abstract",
       "downloadable": false
     },
-    // Abstract
+    
     {
       "name": "Abstract7",
       "author": "De Jan",
