@@ -41,7 +41,7 @@
       "collections": "featured,amoled",
       "downloadable": false
     },
-    // Abstract
+    
     {
       "name": "Abstract",
       "author": "De Jan",
@@ -49,7 +49,7 @@
       "collections": "abstract",
       "downloadable": false
     },
-    // Abstract
+    
     {
       "name": "Abstract2",
       "author": "De Jan",
