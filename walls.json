@@ -81,14 +81,14 @@
       "downloadable": false
     },   
     {
-      "name": "Leaf",
+      "name": "Leafs",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature4.jpeg",
       "collections": "nature",
       "downloadable": false
     },    
     {
-      "name": "BlackLeaf",
+      "name": "BlackLeafs",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature5.jpeg",
       "collections": "nature",
@@ -135,8 +135,14 @@
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract8.jpg",
       "collections": "abstract",
       "downloadable": false
+    },
+    {
+      "name": "Tree",
+      "author": "De Jan",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature10.jpeg",
+      "collections": "nature",
+      "downloadable": false
     }
-   
  
  
   ]
