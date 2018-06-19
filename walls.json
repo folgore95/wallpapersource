@@ -86,6 +86,13 @@
       "downloadable": false
     },   
     {
+      "name": "Folgore",
+      "author": "Giorgio Cantoni",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/amoled3.jpg",
+      "collections": "amoled",
+      "downloadable": true
+    }, 
+    {
       "name": "Abstract4",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract4.jpg",
