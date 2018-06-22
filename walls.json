@@ -44,6 +44,13 @@
       "downloadable": true
     }, 
     {
+      "name": "SnakesBlack",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract24.png",
+      "collections": "featured,abstract,amoled",
+      "downloadable": false
+    }, 
+    {
       "name": "Australia",
       "author": "Sam Wermut",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/places/places1.jpg",
@@ -64,6 +71,13 @@
       "collections": "featured,amoled",
       "downloadable": true
     },    
+    {
+      "name": "SnakesRed",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract28.png",
+      "collections": "featured,abstract,amoled",
+      "downloadable": false
+    }, 
     {
       "name": "Abstract",
       "author": "De Jan",
@@ -196,7 +210,14 @@
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract5.jpg",
       "collections": "abstract",
       "downloadable": false
-    },   
+    }, 
+    {
+      "name": "SnakesBlue",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract25.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
     {
       "name": "Abstract6",
       "author": "De Jan",
@@ -233,6 +254,13 @@
       "downloadable": false
     }, 
     {
+      "name": "SnakesGreen",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract26.png",
+      "collections": "featured,abstract,amoled",
+      "downloadable": false
+    }, 
+    {
       "name": "Technical2",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract7.jpg",
@@ -260,6 +288,13 @@
       "collections": "nature",
       "downloadable": false
     },
+    {
+      "name": "SnakesPink",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract27.png",
+      "collections": "featured,abstract,amoled",
+      "downloadable": false
+    }, 
     {
       "name": "MiniDroidPink",
       "author": "Djdarkknight96",
