@@ -142,6 +142,13 @@
       "downloadable": false
     }, 
     {
+      "name": "MiniDroidRed",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract23.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
+    {
       "name": "Abstract4",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract4.jpg",
@@ -177,6 +184,13 @@
       "downloadable": false
     },    
     {
+      "name": "MiniDroidBlack",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract19.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    },  
+    {
       "name": "Technical",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract5.jpg",
@@ -193,7 +207,7 @@
     {
       "name": "EclipseRed",
       "author": "Djdarkknight96",
-      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract20.png",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract18.png",
       "collections": "featured,abstract",
       "downloadable": false
     }, 
@@ -202,6 +216,13 @@
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature7.jpeg",
       "collections": "nature",
+      "downloadable": false
+    }, 
+    {
+      "name": "MiniDroidBlue",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract20.png",
+      "collections": "featured,abstract",
       "downloadable": false
     }, 
     {
@@ -226,10 +247,24 @@
       "downloadable": false
     },
     {
+      "name": "MiniDroidGreen",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract21.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
+    {
       "name": "Tree",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature10.jpg",
       "collections": "nature",
+      "downloadable": false
+    },
+    {
+      "name": "MiniDroidPink",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract22.png",
+      "collections": "featured,abstract",
       "downloadable": false
     }
  
