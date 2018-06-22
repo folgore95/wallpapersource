@@ -79,6 +79,13 @@
       "downloadable": false
     }, 
     {
+      "name": "Eclipse",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract14.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
+    {
       "name": "Abstract2",
       "author": "De Jan",
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract2.jpg",
@@ -91,7 +98,14 @@
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature2.jpg",
       "collections": "nature",
       "downloadable": false
-    },    
+    },   
+    {
+      "name": "EclipseBlue",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract15.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
     {
       "name": "Poppy",
       "author": "De Jan",
@@ -112,6 +126,13 @@
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/amoled/amoled3.jpg",
       "collections": "amoled",
       "downloadable": true
+    }, 
+    {
+      "name": "EclipseGreen",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract16.png",
+      "collections": "featured,abstract",
+      "downloadable": false
     }, 
     {
       "name": "CirclesPink",
@@ -140,7 +161,14 @@
       "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/nature/nature4.jpeg",
       "collections": "nature",
       "downloadable": false
-    },    
+    },   
+    {
+      "name": "EclipsePink",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract17.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
     {
       "name": "BlackLeafs",
       "author": "De Jan",
@@ -162,6 +190,13 @@
       "collections": "abstract",
       "downloadable": false
     },    
+    {
+      "name": "EclipseRed",
+      "author": "Djdarkknight96",
+      "url": "https://raw.githubusercontent.com/folgore95/wallpapersource/master/abstract/abstract20.png",
+      "collections": "featured,abstract",
+      "downloadable": false
+    }, 
     {
       "name": "Stem",
       "author": "De Jan",
